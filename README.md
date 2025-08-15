@@ -1,16 +1,31 @@
-## Hi there 👋
+# print("Seja bem-vindo(a) ao meu GitHub 😁")
 
-<!--
-**samuelhenri-hub/samuelhenri-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Backend | Estudante de Ciência da Computação**  
+📍 Sorocaba, Brasil  
+🚀 Apaixonado por **Java**, **Python**, **Desenvolvimento Web** e **IA**  
+🌎 Inglês: **B2 (Upper Intermediate)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+</p>
+
+---
+
+### 📌 Projetos Fixados
+- [**NomeDoProjeto1**](link) — descrição curta do projeto
+- [**NomeDoProjeto2**](link) — descrição curta do projeto
+
+---
+
+### 📊 Estatísticas do GitHub
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+
+---
