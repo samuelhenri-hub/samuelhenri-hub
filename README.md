@@ -19,7 +19,7 @@ Seja bem-vindo(a) ao meu GitHub
 ---
 
 ### 📌 Projetos Fixados
-- [**NomeDoProjeto1**](link) — descrição curta do projeto
+- [**LInktree**](https://github.com/samuelhenri-hub/Linktree) — Pagina de links sociais com HTML e CSS
 - [**NomeDoProjeto2**](link) — descrição curta do projeto
 
 ---
