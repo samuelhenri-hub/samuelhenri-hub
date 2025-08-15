@@ -20,7 +20,7 @@ Seja bem-vindo(a) ao meu GitHub
 
 ### 📌 Projetos Fixados
 - [**LInktree**](https://github.com/samuelhenri-hub/Linktree) — Pagina de links sociais com HTML e CSS
-- [**NomeDoProjeto2**](link) — descrição curta do projeto
+- [**Contagem de estoque**](https://github.com/samuelhenri-hub/Projeto-Contagem-estoque) — Sistema para contagem de estoque em Java
 
 ---
 
