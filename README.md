@@ -1,9 +1,8 @@
-# print("Seja bem-vindo(a) ao meu GitHub 😁")
+Seja bem-vindo(a) ao meu GitHub 
 
 💻 **Desenvolvedor Backend | Estudante de Ciência da Computação**  
 📍 Sorocaba, Brasil  
-🚀 Apaixonado por **Java**, **Python**, **Desenvolvimento Web** e **IA**  
-🌎 Inglês: **B2 (Upper Intermediate)**  
+🚀 Estudando **Java**, **Python**, **Desenvolvimento Web**    
 
 ---
 
@@ -26,6 +25,6 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelhenri-hub&show_icons=true&theme=radical)
 
 ---
