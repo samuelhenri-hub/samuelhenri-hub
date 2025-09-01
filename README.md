@@ -22,8 +22,3 @@ Seja bem-vindo(a) ao meu GitHub
 - [**Contagem de estoque**](https://github.com/samuelhenri-hub/Projeto-Contagem-estoque) — Sistema para contagem de estoque em Java
 
 ---
-
-### 📊 Estatísticas do GitHub
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelhenri-hub&show_icons=true&theme=radical)
-
----
