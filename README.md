@@ -13,6 +13,7 @@ Seja bem-vindo(a) ao meu GitHub
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" heigth="40" alt="python logo"/>
 </p>
 
 ---
