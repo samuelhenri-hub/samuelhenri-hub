@@ -19,5 +19,5 @@ Seja bem-vindo(a) ao meu GitHub
 ### 📌 Projetos Fixados
 - [**LInktree**](https://github.com/samuelhenri-hub/Linktree) — Pagina de links sociais com HTML e CSS
 - [**Contagem de estoque**](https://github.com/samuelhenri-hub/Projeto-Contagem-estoque) — Sistema para contagem de estoque em Java
-- [**Criptografia**] (https://github.com/samuelhenri-hub/Aps-criptografia) - Cifra de Cesar em Python
+- [**Criptografia**](https://github.com/samuelhenri-hub/Aps-criptografia) - Cifra de Cesar em Python
 ---
